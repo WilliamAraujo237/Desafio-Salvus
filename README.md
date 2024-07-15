@@ -5,8 +5,8 @@
     Descrição Do projeto
 </h2>
 <p>
-  O projeto trata-se de um sistema de registos e pagamentos para funcionarios de uma empresa, escrito na linguagem de programação C
-  o código tem como objetivo facilitar a gestão de uma empresa para que a mesma tenha melhor gestão de seus funcionarios e gastos mensais.
+  O projeto trata-se de um sistema de registos e pagamentos para os funcionarios de uma empresa, escrito na linguagem de programação C,
+  o código tem como objetivo facilitar a gestão de uma empresa, para que a mesma tenha melhor gestão de seus funcionarios e gastos mensais.
 </p>
 <h3>
  ✅ Projeto Concluído ✅
