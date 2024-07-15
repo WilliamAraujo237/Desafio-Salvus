@@ -65,7 +65,7 @@ void BonosPorContratoAssinado(Funcionario funcionarioRegistro[], int contador){
 
     printf("Quantos contratos o funcionario assinou? : ");
     scanf("%d", &funcionarioRegistro[contador].contratosAssinadosQTD);
-    getchar(); 
+    getchar(); // Limpa o buffer de entrada
     funcionarioRegistro[contador].valorBonos = funcionarioRegistro[contador].contratosAssinadosQTD * valorCalculoBonus;
     funcionarioRegistro[contador].salarioComBonos = funcionarioRegistro[contador].valorBonos + funcionarioRegistro[contador].salario;
 }
@@ -75,7 +75,7 @@ void QuantidadeDeHorasTrabalhadas (Funcionario funcionarioRegistro[], int constr
 
     printf("Digite a quantidade de horas trabalhadas: ");
     scanf("%d", &funcionarioRegistro[construtor].horas);
-    getchar();
+    getchar(); // Limpa o buffer de entrada
 
 }
 
