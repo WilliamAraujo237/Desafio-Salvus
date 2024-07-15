@@ -12,7 +12,7 @@
  ✅ Projeto Concluído ✅
 </h3>
 <h2>
-  📄 Ferramentas e Linguagens utilizadas
+  📄 Ferramentas e Linguagem utilizada
 </h2>
 <ul>
   <li> C </li>
